@@ -2,6 +2,6 @@
 
 Perkenalkan nama saya **Anwar Ibrahim**.<br>
 
-Saya merupakan lulusan baru dari **Institut Teknologi Telkom Surabaya** yang ingin menjadi seorang **Web Developer**<br>
+Saya merupakan lulusan baru dari **Institut Teknologi Telkom Surabaya** jurusan **Rekayasa Perangkat Lunak** yang ingin menjadi seorang **Web Developer**<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/anwar-ibrahim001/)ku ya.
