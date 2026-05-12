@@ -1,6 +1,6 @@
 # Hi there, I'm Anwar Ibrahim
 
-I'm a passionate **Web Developer** and a fresh graduate in **Software Engineering** from **Institut Teknologi Telkom Surabaya**.  
+I'm a passionate **Web Developer** with a background in **Software Engineering** from **Institut Teknologi Telkom Surabaya**.  
 I specialize in building modern, scalable, and user-friendly websites while also understanding the importance of **SEO** and **Digital Marketing** to help businesses grow online.
 
 ## About Me
