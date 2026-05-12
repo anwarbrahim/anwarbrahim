@@ -42,6 +42,7 @@ I specialize in building modern, scalable, and user-friendly websites while also
 ## Connect With Me
 
 - LinkedIn: [Anwar Ibrahim](https://www.linkedin.com/in/anwar-ibrahim001/)
+- Instagram: [Anwar Ibrahim](https://www.instagram.com/anbrhim)
 
 ## GitHub Statistics
 
